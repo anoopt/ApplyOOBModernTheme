@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyOOBModernTheme", "ApplyOOBModernTheme\ApplyOOBModernTheme.csproj", "{9AEF1C25-9B89-4DB8-9C0E-8FC1EC20F628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEF1C25-9B89-4DB8-9C0E-8FC1EC20F628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEF1C25-9B89-4DB8-9C0E-8FC1EC20F628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEF1C25-9B89-4DB8-9C0E-8FC1EC20F628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEF1C25-9B89-4DB8-9C0E-8FC1EC20F628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC6F0F7-4DEE-43E6-876F-4E54489E30A8}
+	EndGlobalSection
+EndGlobal
